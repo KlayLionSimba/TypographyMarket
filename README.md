@@ -2,7 +2,7 @@
 https://gist.github.com/novela77/fac4cf1c4aa6df4d4892baa0e034c2d8
 
 ### React 앱 Github 레포지토리 
-https://github.com/novela77/Lion-Simba
+https://github.com/KlayLionSimba/TypographyMarket
  
 ### 4팀
 심바_이종환(팀장), 이희진, 남현우, 이여원, 이민구
