@@ -38,5 +38,4 @@ https://github.com/KlayLionSimba/TypographyMarket
 1)NFT 토큰을 민팅하게 됩니다. 이 NFT 토큰은 오픈씨등 오픈 마켓에서 거래될수 있으며 수익을 
 트레져리로 부터 배당 받을수 있습니다.
  
-감사합니다.
-<img width="1441" alt="market_sample" src="https://user-images.githubusercontent.com/28801061/152287851-a19428d6-eda7-4202-93eb-9cb994d437dc.png">
+감사합니다. 
