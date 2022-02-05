@@ -1,5 +1,5 @@
 ### Smart Contract
-https://gist.github.com/novela77/fac4cf1c4aa6df4d4892baa0e034c2d8
+https://gist.github.com/novela77/2bdc7522442975045064a0cf9fb3ab65
 
 ### React 앱 Github 레포지토리 
 https://github.com/KlayLionSimba/TypographyMarket
