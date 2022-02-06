@@ -21,6 +21,16 @@ https://github.com/KlayLionSimba/TypographyMarket
 2. creator-front : 저작권가 사용하는 모바일 웹앱이며 , 파일 등록 및 라이선스 권리 설정을 할수 있습니다. 
 3. service-backend: customer-front 와 creator-front 사용자들의 요청을 전달 받아 중개하는 역할을 합니다.
 
+
+### Technology stack
+
+- `Solidity`
+- `React.js`
+- `Node.js`
+- `Kaikas`
+- `IPFS`
+- `KAS(Klaytn Application Service)`
+
 #### 1.라이선스 구매 마켓
 저희 팀은 서체 및 캘리그래프등 타이포그래피를 저작권을 1)민팅하여 
 폰트등의 라이선스 범위 및 기간을 선택하여 저작권을 2)구매 할수 있도록 하며
